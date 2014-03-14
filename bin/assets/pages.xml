@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<content width="350" height="500" bgcolor="cccccc" loadercolor="ffffff" panelcolor="5d5d61" buttoncolor="5d5d61" textcolor="ffffff">
+	<page src="assets/pages/01.png"/>
+	<page src="assets/pages/02.png"/>
+	<page src="assets/pages/03.png"/>
+	<page src="assets/pages/04.png"/>
+	<page src="assets/pages/05.png"/>
+	<page src="assets/pages/06.png"/>
+	<page src="assets/pages/07.png"/>
+	<page src="assets/pages/08.png"/>
+	<page src="assets/pages/09.png"/>
+	<page src="assets/pages/10.png"/>
+	<page src="assets/pages/11.png"/>
+	<page src="assets/pages/12.png"/>
+	<page src="assets/pages/13.png"/>
+	<page src="assets/pages/14.png"/>
+	<page src="assets/pages/15.png"/>
+	<page src="assets/pages/16.png"/>
+
+	<pageblack>
+		<page src="assets/pages/00.swf"/>
+	</pageblack>
+</content>
+
